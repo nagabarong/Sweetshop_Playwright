@@ -1,0 +1,14 @@
+{
+  "name": "sweetshop_playwright",
+  "version": "1.0.0",
+  "description": "Automation testing from scratch using playwright in dummy web SweetShop",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.1"
+  }
+}
